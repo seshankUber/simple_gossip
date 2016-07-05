@@ -1,0 +1,17 @@
+# Ignore python virtual environments
+env*
+
+# idea
+.idea*
+
+*.py[cod]
+*.orig
+
+# No local dbs
+*.db
+
+# C extensions
+*.so
+
+# OS X Junk
+.DS_Store
